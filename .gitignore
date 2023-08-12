@@ -1,0 +1,5 @@
+# Data files
+/data/
+/test_images/
+*.pickle
+*.DS_Store
